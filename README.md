@@ -1,0 +1,1 @@
+# rad_grupa2
