@@ -106,6 +106,6 @@ while True:
                 if detalj == kljucna_rec:
                     biblioteka.remove(knjiga)
                     print("Knjiga je obrisana")
-        if komanda > 3:
-            break
+    if komanda > 3:
+        break
                 
